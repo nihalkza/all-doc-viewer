@@ -1,6 +1,6 @@
 # All Doc Viewer [Fixed]
 
-### DEMO :  [CLICK HERE](https://nihalkza.github.io/all-doc-viewer) 
+### NPM :  [CLICK HERE](https://www.npmjs.com/package/all-doc-viewer-fixed) 
 
 &nbsp;
 
