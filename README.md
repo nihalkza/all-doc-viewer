@@ -61,6 +61,6 @@ ISC
 \
 Author: Abhishek Kumar\
 Email: <abnielit@gmail.com>\
-Version: 1.0.0\
+Version: 1.1.2\
 for more: https://nihalkza.github.io/
 **Free Support, Don't forget to share love!**
